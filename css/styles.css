@@ -1,1 +1,11 @@
-ad
+#title{
+    background-color: #ff4c68;
+}
+
+h1 {
+	font-family: 'Montserrat-Black', sans-serif;
+	font-size: 3.5rem;
+	line-height: 1.5;
+	font-weight: bold;
+
+}
